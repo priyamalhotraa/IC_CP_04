@@ -4,7 +4,7 @@ C++ Student Grade Calculator – Task 4 assigned by Interncred
 ## Student Grade Calculator (C++)
 
 This repository contains a console-based Student Grade Calculator developed in C++  
-as part of Task 4 assigned by InternCred during the internship.
+as part of Task 4 assigned by Interncred during the internship.
 
 The program calculates total marks, percentage, grade, and pass/fail status for  
 multiple students across multiple subjects.
